@@ -27,3 +27,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Screenshots
+![image](https://user-images.githubusercontent.com/59621791/149681302-a89139cb-d0ee-4d9f-ab58-5884f251a8e0.png)
+
